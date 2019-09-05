@@ -91,3 +91,12 @@ ENV/
 # Data
 notMNIST.pickle
 *.zip
+
+### Code ###
+.vscode/
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
